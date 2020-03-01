@@ -1,0 +1,36 @@
+@import './fonts.css';
+
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+  font-family: 'Proxima';
+  font-weight: 300;
+  box-sizing: content-box;
+  -webkit-font-smoothing: antialiased;
+}
+
+html,
+body,
+div,
+span,
+footer,
+header,
+ul,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+menu,
+nav,
+button,
+input {
+  padding: 0px;
+  margin: 0px;
+}

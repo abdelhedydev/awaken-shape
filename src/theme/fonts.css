@@ -1,0 +1,62 @@
+
+
+@font-face {
+  font-family: 'Proxima';
+  src:  url('./font/ProximaNova-Regular.otf') format('opentype');
+  font-style: normal;
+  font-weight: 200;
+}
+/* 
+@font-face {
+  font-family: 'Wigrum';
+  src: url('./fonts/Wigrum-LightItalic.eot');
+  src: url('./fonts/Wigrum-LightItalic.woff') format('woff'),
+    url('./fonts/Wigrum-LightItalic.otf') format('opentype');
+  font-style: italic;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Wigrum';
+  src: url('./fonts/Wigrum-Regular.eot');
+  src: url('./fonts/Wigrum-Regular.woff') format('woff'),
+    url('./fonts/Wigrum-Regular.otf') format('opentype');
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Wigrum';
+  src: url('./fonts/Wigrum-Medium.eot');
+  src: url('./fonts/Wigrum-Medium.woff') format('woff'),
+    url('./fonts/Wigrum-Medium.otf') format('opentype');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Wigrum';
+  src: url('./fonts/Wigrum-MediumItalic.eot');
+  src: url('./fonts/Wigrum-MediumItalic.woff') format('woff'),
+    url('./fonts/Wigrum-MediumItalic.otf') format('opentype');
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Wigrum';
+  src: url('./fonts/Wigrum-Bold.eot');
+  src: url('./fonts/Wigrum-Bold.woff') format('woff'),
+    url('./fonts/Wigrum-Bold.otf') format('opentype');
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Wigrum';
+  src: url('./fonts/Wigrum-BoldItalic.eot');
+  src: url('./fonts/Wigrum-BoldItalic.woff') format('woff'),
+    url('./fonts/Wigrum-BoldItalic.otf') format('opentype');
+  font-style: italic;
+  font-weight: 600;
+} */
