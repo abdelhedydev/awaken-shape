@@ -5,18 +5,22 @@ const Header = () => {
   return (
     <HeaderWrapper>
       <div className="header__container">
-        <div>
-          <img src="" alt="" />
+        <div className="header__info">
+          <img
+            src="https://image.flaticon.com/icons/svg/2519/2519082.svg"
+            alt=""
+          />
+          <h1>Awaken Shape</h1>
         </div>
         <div>
-          <ul>
-            <li>Our Team</li>
-            <li>Training</li>
-            <li>Nutrition</li>
-            <li>Nutrition</li>
-            <li>Store</li>
-            <li>Blog</li>
-          </ul>
+          <nav>
+            <a>Our Team</a>
+            <a>Training</a>
+            <a>Nutrition</a>
+            <a>Nutrition</a>
+            <a>Store</a>
+            <a>Blog</a>
+          </nav>
         </div>
       </div>
     </HeaderWrapper>
